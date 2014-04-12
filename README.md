@@ -1,0 +1,7 @@
+#ONE MONTH RAILS
+
+THIS IS THE SAMPLE APPLICATION
+
+[*One Month Rails]
+
+by [Justin Tam]
